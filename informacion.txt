@@ -1,4 +1,4 @@
-Nombres;Apellidos,Dirección;Correo
+Nombres;Apellidos;Dirección;Correo
 Krystal Nguyen;Lee;53707 Taylor Trail Suite 291West Ralph, DC 46920;devin26@example.net
 Michael Cervantes;Brown;4006 Patrick InletWest Tonimouth, HI 37629;jacqueline66@example.com
 Trevor Leonard;Burke;2195 Kelly Terrace Suite 452North Darrylfurt, AZ 14118;kkeller@example.com
